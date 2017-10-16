@@ -1,0 +1,9 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" class="page" loaded="loaded">
+    <Page.actionBar>
+        <ActionBar title="My App" icon="" class="action-bar">
+        </ActionBar>
+    </Page.actionBar>
+    <StackLayout>
+        <Label text="{{ nickname }}" textWrap="true" />
+    </StackLayout>
+</Page>

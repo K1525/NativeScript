@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\NativeScript\\DataBind\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\icon.png",
+        "source": "F:\\NativeScript\\DataBind\\platforms\\android\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "F:\\NativeScript\\DataBind\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\background.png",
+        "source": "F:\\NativeScript\\DataBind\\platforms\\android\\src\\main\\res\\drawable-ldpi\\background.png"
+    },
+    {
+        "merged": "F:\\NativeScript\\DataBind\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\logo.png",
+        "source": "F:\\NativeScript\\DataBind\\platforms\\android\\src\\main\\res\\drawable-ldpi\\logo.png"
+    }
+]

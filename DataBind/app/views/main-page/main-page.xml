@@ -1,0 +1,10 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" class="page" loaded="loaded">
+    <Page.actionBar>
+        <ActionBar title="My App" icon="" class="action-bar">
+        </ActionBar>
+    </Page.actionBar>
+    <StackLayout>
+        <TextField id="nickname" hint="nickname" text=""></TextField>
+        <Button text="Play" tap="play"></Button>
+    </StackLayout>
+</Page>
